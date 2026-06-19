@@ -1,0 +1,10 @@
+client/bin/
+client/obj/
+client/.vs/
+
+server/dist/
+server/node_modules/
+server/.DS_Store
+server/package-lock.json
+updateTypes.ps1
+NewTypes/
