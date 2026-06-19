@@ -29,4 +29,4 @@ This mod may conflict with other mods that modify therapist's post-raid heal pri
 
 
 
-##### Huge thank you to user HiddenCirno, I would have not been able to figure this out without their help!
+##### Huge thank you to user HiddenCirno, I wouldn't have figured this out without their help!
