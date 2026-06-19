@@ -3,7 +3,7 @@ This is a small mod that adds back an unused mechanic that allows you to refill 
 
 
 ![Post-raid health screen](https://i.imgur.com/PjtFS7z.png)
-
+#### Huge thank you to user HiddenCirno, I wouldn't have figured this out without their help!
 # Installation 
 1. Download the latest release
 2. Drag and drop the "user" and "BepInEx" folders into your SPT root directory
@@ -29,4 +29,3 @@ This mod may conflict with other mods that modify therapist's post-raid heal pri
 
 
 
-##### Huge thank you to user HiddenCirno, I wouldn't have figured this out without their help!
