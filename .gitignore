@@ -1,0 +1,9 @@
+client/bin/
+client/obj/
+client/.vs/
+
+server/bin/
+server/obj/
+server/.vs/
+server/Properties
+
